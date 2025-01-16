@@ -24,15 +24,21 @@ It can export in FBX and GLTF format, compatible with Unreal Engine, Maya, Godot
 
 Want to see it in action?
 
-Watch The Rig Features Demo: https://www.youtube.com/watch?v=G6j_lXTaiOk
+Watch The Rig Features Demo:
 
-Watch The Rigged Character Demo: https://www.youtube.com/watch?v=SFqWuZXxQH4
+https://www.youtube.com/watch?v=G6j_lXTaiOk
+
+Watch The Rigged Character Demo:
+
+https://www.youtube.com/watch?v=SFqWuZXxQH4
 
 Just add the markers and BlenQuick Auto-Rigger will automatically place the bones to speed up the rigging process.
 
 Both body and face of non-humanoid characters, like cats, dogs, horses, pigs, cows etc., can be rigged by the Auto-Rigger feature, or manually by using the "Add Prebuilt Armature" dropdown.
 
-Watch The Animal Rigging Demo: https://www.youtube.com/watch?v=xQkPrwUyZ80
+Watch The Animal Rigging Demo:
+
+https://www.youtube.com/watch?v=xQkPrwUyZ80
 
 List of what the add-on has to offer:
 
